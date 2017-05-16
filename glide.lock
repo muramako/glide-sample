@@ -1,0 +1,6 @@
+hash: ff852e25c6a41573a1df328d8a57575efe7f6516b220e5742ada64e060572d38
+updated: 2017-05-16T19:10:14.37765868+09:00
+imports:
+- name: github.com/cznic/mathutil
+  version: 1447ad269d64ca91aa8d7079baa40b6fc8b965e7
+testImports: []

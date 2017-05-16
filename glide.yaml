@@ -1,0 +1,3 @@
+package: github.com/muramako/glide-sample
+import:
+- package: github.com/cznic/mathutil
